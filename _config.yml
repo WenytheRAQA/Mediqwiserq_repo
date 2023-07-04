@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+ # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely edit after that. If you find
@@ -17,8 +17,8 @@ theme: jekyll-theme-so-simple
 # remote_theme: mmistakes/so-simple-theme
 skin: "/assets/css/skins/default.css"
 locale: en-US
-title: "My Awesome Site"
-description: "It really is the best."
+title: "Weny the RAQA"
+description: "Share notes and thoughts on Software as Medical Devices"
 baseurl: # the subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: # path of site logo, e.g. "/images/logo.png"
@@ -90,18 +90,21 @@ defaults:
       share: true
 
 # Site Author
-author:
-  name:
+author: 
+  name: Yu-Wen (Weny)
   picture:
-  email:
+  email: yu-wen.wang@outlook.com
   twitter:
-  links:
-    - title:
-      url:
-      icon:
+  links: 
+    - title: LinkedIn
+      url: https://www.linkedin.com/in/yu-wen-wang/
+      icon: fab fa-linkedin
 
 # Footer Links
 footer_links:
-  - title: Feed
-    url: atom.xml
-    icon: fas fa-rss-square
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/yu-wen-wang/
+    icon: fab fa-linkedin
+  - title: GitHub
+    url: https://github.com/WenytheRAQA/WenytheRAQA.github.io
+    icon: fab fa-github-square
