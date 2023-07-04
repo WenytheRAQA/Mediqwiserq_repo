@@ -18,7 +18,7 @@ People can get confused when they start to look into these terms: the definition
 
 **ANOMALY**: Any condition that deviates from the expected based on requirements specifications, design documents, standards, etc. or from someone's perceptions or experiences. ANOMALIES may be found during, but not limited to, the review, test, analysis, or use of "medical device software" or applicable documentation. (IEC 62304:2015, clause 3.2)
 
-**BUG**: The most historical terms to discribe any fault in a program -- back to them time when it meant the actual bug (insect.) Dev people seems to use it for any not desired. Acutally, the US FDA gave their definition on [their website](https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/inspection-guides/glossary-computer-system-software-development-terminology-895): A fault in a program which causes the program to perform in an unintended or unanticipated manner. 
+**BUG**: The most historical term to describe any fault in a program -- back to the time when it meant the actual bug (insect.) Dev people use it for everything not desired. Actually, the US FDA gave their definition on [their website](https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/inspection-guides/glossary-computer-system-software-development-terminology-895): A fault in a program which causes the program to perform in an unintended or unanticipated manner. 
 
 **DEFECT**: nonconformity related to an intended or specified use. ([ISO 9000:2015 clause 3.6.10](https://www.iso.org/obp/ui/en/#iso:std:iso:9000:ed-4:v1:en:term:3.6.10))
 
@@ -42,5 +42,4 @@ And bug? A bug could be anything above. People use it as general as possible.
 
 And you may think, okay, I know there are differences, now what?
 
-Practically, the US FDA  think these terms are all together (they crossed-reference all the terms) and they want the manufacture to consider them all together. So it is totally cool if you plan to management them in a system - just pick a word and use it harmonically in your group. However, if you want to do further classify problems in your Software problem resolution process (IEC 62304, section 9,) you may want to use these terms as they are well defined.
-
+Practically, the US FDA think these terms are all together (they crossed-reference all the terms), and they want the manufacturers to consider them all together. So it is totally cool if you plan to manage them in a system - just pick a word and use it harmonically in your group. However, if you want to further classify problems in your Software problem resolution process (IEC 62304, section 9), you can use these terms as they are well-defined.
