@@ -1,13 +1,10 @@
 ---
-title: "Edge Case: Nested and Mixed Lists"
+title: "2023 (Final) FDA guidance on Content of Premarket Submissions for Device Software Functions.md"
 categories:
-  - Edge Case
+  - FDA
 tags:
-  - content
-  - css
-  - edge case
-  - lists
-  - markup
+  - FDA
+  - SaMD
 last_modified_at: 2017-03-09T14:25:52-05:00
 ---
 
