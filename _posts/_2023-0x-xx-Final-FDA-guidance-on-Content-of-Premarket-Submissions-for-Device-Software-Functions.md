@@ -1,5 +1,5 @@
 ---
-title: "2023 (Final) FDA guidance on Content of Premarket Submissions for Device Software Functions.md"
+title: "2023 (Final) FDA guidance on Content of Premarket Submissions for Device Software Functions"
 categories:
   - FDA
 tags:
