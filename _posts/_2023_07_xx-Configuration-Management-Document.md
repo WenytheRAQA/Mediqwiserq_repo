@@ -19,17 +19,25 @@ Tailor it for IEC 62304, in my language, it means *your controls over your liste
 - Change Control Processes (map with ISO 13485:2016, §7.3.9)
 - Configuration status accounting, aka records of the history, including when and why --- to ensure only authorized modifications will go into the product(s).
 
-### Identifications
+## Deliverables:
 
-High-level deliverables:
+### CM procedure
 
-**CM procedure**: describe the versioning system and the naming system:
+**Identifications**: describe the versioning system and the naming system:
 - Versioning: Do you use major.minor.patch, major.minor.build.revion, or the year and date? And better to explain your definition of "major" and "minor."
-  - Personally I prefer to have major and minor in the systemm, review the [FDA 510(k) software change guidnace](https://www.fda.gov/media/99785/download) or anything simliar from the regulatory authorities with the Engineering, and map the definition of "major" when we need to file a new submission.
-- identifier: how do you name your software items.
+  - Personally I prefer to have major and minor in the system, review the [FDA 510(k) software change guidnace](https://www.fda.gov/media/99785/download) or anything simliar from the regulatory authorities with the Engineering, and map the definition of "major" when we need to file a new submission.
+- identifier: how do you name your software items
+  - Please note, here the items including source code, object code, control code, control data, or a collection of these items.
+  - you also can think about if you want to have an internal identifier for SOUPs and OTSs. You also can use its orignial names.
 
-**CM plan**:(62304, §5.1.9a.)
-- 
+### CM Plan
+(62304, §5.1.9)
+
+| Requirements | Actions | Notes |
+| -------- | -------- | -------- |
+| Cell 1-1 | Cell 1-2 | Cell 1-3 |
+| Cell 2-1 | Cell 2-2 | Cell 2-3 |
+
 
 
 # Software Maintenance
