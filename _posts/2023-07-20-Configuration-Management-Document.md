@@ -62,5 +62,10 @@ Several points:
 - You may have an OEM for software development, and they are the one maintaining it.
 - You purchased a customized software component, and you will maintain it by yourself in the future.
 
+&nbsp;
+
+Of course the rest of the deliverables will be the deliverables you mentioned in your CM plan.
+
+___
 
 I hope you find it is simpler than you thought it would be. And I hope you think this article is useful :) 
