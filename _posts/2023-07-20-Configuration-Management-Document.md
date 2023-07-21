@@ -68,4 +68,4 @@ Of course the rest of the deliverables will be the deliverables you mentioned in
 
 ___
 
-I hope you find it is simpler than you thought it would be. And I hope you think this article is useful :) 
+I hope you find it more straightforward than you thought it would be. And I hope you think this article is helpful :smile:
