@@ -1,5 +1,5 @@
 ---
-title: "Deliverables for Software Configuration Management in the IEC 62304"
+title: "Deliverables for Software Configuration Management in IEC 62304"
 categories:
   - General QMS
 tags:
