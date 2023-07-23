@@ -10,7 +10,7 @@ last_modified_at: 2023-07-23
 
 Integrating legacy devices (or bringing in legacy devices) into a Quality Management System (QMS) has become essential in the dynamic field of medical devices. Regulatory standards are not static. They evolve to keep pace with technological advancements, ensuring healthcare safety and efficacy. 
 
-One critical standard is the IEC 62304, a widely accepted guideline that defines life cycle requirements for developing medical software and software within medical devices. This blog post aims to share thoughts about using Section 4 of the IEC 62304 standard to integrate legacy medical devices into Quality Management Systems (QMS). Please note, clause 4 is applicable from a devices were not establishec in accordance with any version of IEC 62304, to the devices existing prior to 2015 revision and bring them on board.
+One critical standard is the IEC 62304, a widely accepted guideline that defines life cycle requirements for developing medical software and software within medical devices. This blog post aims to share thoughts about using Section 4 of the IEC 62304 standard to integrate legacy medical devices into Quality Management Systems (QMS). Please note clause 4 is applicable from devices that were not established by any version of IEC 62304 to the devices existing before the 2015 revision and bring them on board.
 
 Clause 4 includes the following steps
 
@@ -37,19 +37,19 @@ Let's walk through them together!
 
 1. Use your pre-mitigating risk assessment results and the existing external risk controls to determine your Software Safety Classification. It will also likely determine your [documentation level](https://wenytheraqa.github.io/fda/Final-FDA-guidance-on-Content-of-Premarket-Submissions-for-Device-Software-Functions/) if you plan to make a 510(k) submission.
 2. Based on the determined Software Safety Classification A, B, or C, you can determine the deliverables you will need.
-   - If you ready has some existing deliverables - review them and do a gap assement;
+   - If you ready has some existing deliverables - review them and do a gap assessment;
    - If you have some non-formalized requirements, architecture, or testing - do gap assessments and take the credits from them;
    - In any case, 
      - List your requirements and draw the architecture diagrams, then do the mapping to see if any unmet requirements need to be re-engineered;
-     - List your requirements and your current testing, then do mapping to ensure the full coverage of your testing.
+     - List your requirements and your current testing, then map them to ensure the full coverage of your testing.
    - As stated in the guidance, the minimum deliverable should be your software system test records.
      - Reminder 3: If the legacy device is integrating into a system (but not the system itself), the details of the system testing should be based on your software safety classification of the **system**, not the legacy devices. The software safety classification of legacy devices depends on partitioning software items within your software system. Figure B.1 in IEC 62304 explains the concept well.
 
 ## Justification and Maintenance
 
-Manufacturers should provide the justification why you determine legacy devices are still good to use. 
+You should justify why you determine legacy devices are still good to use.
 
-After all the deliverables are complete, no matter you newly create them or you review and deem the existing deliverables are acceptable, the following activities will be back to regular maintenance processes and activities.
+After all the deliverables are complete, whether you newly create them or you review and deem the existing deliverables acceptable, the following activities will be back to regular maintenance processes and activities.
 
 ## Additional Notes
 
