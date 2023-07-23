@@ -1,5 +1,5 @@
 ---
-title: "To bring my existing software product/item onboard to IEC 62304"
+title: "To bring your existing software product/item be part/whole of medical devices"
 categories:
   - General QMS
 tags:
