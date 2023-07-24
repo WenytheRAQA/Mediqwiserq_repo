@@ -1,5 +1,5 @@
 ---
-title: "To convert your existing software product/item be part/whole of medical devices"
+title: "To convert an existing software product/item be part/whole of medical devices"
 categories:
   - General QMS
 tags:
