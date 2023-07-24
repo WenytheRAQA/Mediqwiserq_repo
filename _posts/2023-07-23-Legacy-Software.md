@@ -5,12 +5,14 @@ categories:
 tags:
   - IEC 62304
   - SaMD
+  - Legacy Device
 last_modified_at: 2023-07-23
 ---
 
-There are some scenarios that you may consider to convert your existing software product to a medical device or bring a legacy software item into part of your Software as Medical Device (SaMD):
-- Your device was not deemed a medical device, but now it is (e.g., due to a regulatory change),
-- You are considering market entry and realize that conforming to an international standard will be a good approach.
+It has been more and more often that equipment and software companies providing their products to clinics and hospitals are, actively or passively, due to requests from the regulatory authorities, documenting/filing their products as medical devices. Such changes in the status of a product particularly often occur on software. This is [thankfully] due to the huge progress in the use of software in improving physical and mental health. Common scenarios that a company needs to consider converting an existing software product to a medical device or bringing a legacy software item into part of a Software as Medical Device (SaMD) include:
+
+- Your device was not deemed a medical device, but now it is (e.g., due to a regulatory change, your device was for general purposes and you now want to have one with a medical claim),
+- You are considering market entry and realize that conforming to an international standard will be a good approach,
 - Your device was a health software, but with a new feature(s) or a modified claim, your device now meets the definition of medical devices,
   - by the way, in this situation, you may want to check the FDA guidance [Multiple Function Device Products: Policy and Considerations](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/multiple-function-device-products-policy-and-considerations)
 - You are not a medical device company; however, your customer(s) asks you to follow IEC 62304.
@@ -18,9 +20,9 @@ There are some scenarios that you may consider to convert your existing software
 
 (BTW, in all the cases above except the last one, if you don't have a RAQA professional that you can speak with - find one first)
 
-If you are considering doing so, preparing your technical files in accordance with ISO 13495, clause 7 is definitely one of the top priorities --- you will need all hands on deck. If your device has a software component, the most effective way to cover your product realization is to follow the IEC 62304, a widely accepted guideline that defines life cycle requirements for developing medical software and software within medical devices.
+The design and development of SaMD follows ISO 62304. Accomplished documentation requires all technical files. For a company just starting to develop a product, all documents are natural and prepared during development. However, you may not know where to begin if a product has already developed in the past (termed "legacy product").
 
-Of course, you can follow the standard step-by-step. However, IEC 62304 designed its clause 4 for bringing the legacy software into IEC 62304 system with a slightly different order that may better suit the needs of the ones who already have their product(s) developed.
+In this case, I would recommend a scooping strategy, user IEC 62304 clause 4. Of course, you can follow the standard step-by-step. However, IEC 62304 designed its clause 4 for bringing the legacy software into IEC 62304 system with a slightly different order that may better suit the needs of the ones who already have their product(s) developed.
 
 This blog post aims to share thoughts about using Section 4 of the IEC 62304 standard to integrate legacy medical devices into Quality Management Systems (QMS). 
 
