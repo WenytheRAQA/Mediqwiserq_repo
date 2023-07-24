@@ -1,5 +1,5 @@
 ---
-title: "To bring your existing software product/item be part/whole of medical devices"
+title: "To convert your existing software product/item be part/whole of medical devices"
 categories:
   - General QMS
 tags:
@@ -8,11 +8,23 @@ tags:
 last_modified_at: 2023-07-23
 ---
 
-Integrating legacy devices (or bringing in legacy devices) into a Quality Management System (QMS) has become essential in the dynamic field of medical devices. Regulatory standards are not static. They evolve to keep pace with technological advancements, ensuring healthcare safety and efficacy. 
+There are some scenarios that you may consider to convert your existing software product to a medical device or bring a legacy software item into part of your Software as Medical Device (SaMD):
+- Your device was not deemed a medical device, but now it is (e.g., due to a regulatory change),
+- You are considering market entry and realize that conforming to an international standard will be a good approach.
+- Your device was a health software, but with a new feature(s) or a modified claim, your device now meets the definition of medical devices,
+  - by the way, in this situation, you may want to check the FDA guidance [Multiple Function Device Products: Policy and Considerations](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/multiple-function-device-products-policy-and-considerations)
+- You are not a medical device company; however, your customer(s) asks you to follow IEC 62304.
+- Your device was designed before the 2015 revision, and now you want to make it conform with IEC 62304:2015.
 
-One critical standard is the IEC 62304, a widely accepted guideline that defines life cycle requirements for developing medical software and software within medical devices. This blog post aims to share thoughts about using Section 4 of the IEC 62304 standard to integrate legacy medical devices into Quality Management Systems (QMS). Please note clause 4 is applicable from devices that were not established by any version of IEC 62304 to the devices existing before the 2015 revision and bring them on board.
+(BTW, in all the cases above except the last one, if you don't have a RAQA professional that you can speak with - find one first)
 
-Clause 4 includes the following steps
+If you are considering doing so, preparing your technical files in accordance with ISO 13495, clause 7 is definitely one of the top priorities --- you will need all hands on deck. If your device has a software component, the most effective way to cover your product realization is to follow the IEC 62304, a widely accepted guideline that defines life cycle requirements for developing medical software and software within medical devices.
+
+Of course, you can follow the standard step-by-step. However, IEC 62304 designed its clause 4 for bringing the legacy software into IEC 62304 system with a slightly different order that may better suit the needs of the ones who already have their product(s) developed.
+
+This blog post aims to share thoughts about using Section 4 of the IEC 62304 standard to integrate legacy medical devices into Quality Management Systems (QMS). 
+
+Clause 4 includes the following steps:
 
 1. Risk management
 2. Determine the Software Safety Classification of your device and determine the deliverables applicable
@@ -53,4 +65,4 @@ After all the deliverables are complete, whether you newly create them or you re
 
 ## Additional Notes
 
-Of course, QMS is way more than IEC 62304. There are also the implementations of ISO 13485 and ISO 14971 (fun stuff!) In addition, please definitely check [Principles and Practices for the Cybersecurity of Legacy Medical Devices](https://www.imdrf.org/consultations/principles-and-practices-cybersecurity-legacy-medical-devices) published by IMDRF. Cybersecurity is now vital and worth a designated post to talk about. 
+Of course, QMS is way more than IEC 62304. There are also the implementations of ISO 13485, ISO 14971, IEC 62366 and others (fun stuff!) In addition, please definitely check [Principles and Practices for the Cybersecurity of Legacy Medical Devices](https://www.imdrf.org/consultations/principles-and-practices-cybersecurity-legacy-medical-devices) published by IMDRF. Cybersecurity is now vital and worth a designated post to talk about. 
