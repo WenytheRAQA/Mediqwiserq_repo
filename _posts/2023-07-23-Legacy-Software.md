@@ -67,4 +67,4 @@ After all the deliverables are complete, whether you newly create them or you re
 
 ## Additional Notes
 
-Of course, QMS is way more than IEC 62304. There are also the implementations of ISO 13485, ISO 14971, IEC 62366 and others (fun stuff!) In addition, please definitely check [Principles and Practices for the Cybersecurity of Legacy Medical Devices](https://www.imdrf.org/consultations/principles-and-practices-cybersecurity-legacy-medical-devices) published by IMDRF. Cybersecurity is now vital and worth a designated post to talk about. 
+Of course, QMS is way more than IEC 62304. There are also the implementations of ISO 13485, ISO 14971, IEC 62366 and others (fun stuff!) In addition, please definitely check cyber-related guidance. Cybersecurity is now vital and worth a designated post to talk about. 
