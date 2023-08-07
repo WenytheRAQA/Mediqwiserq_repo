@@ -15,9 +15,9 @@ The recommendation would be - **when you are ready to build your MVP** ([p.7](ht
 - When you finish your "prototype/proof-of-concept" beta version product and ready to build your MVP
 - When you plan to bring your device to market (e.g., when there is a potential customer or you are going to distribute your product)
 - And remember, before the first clinical use, unless you have an IRB-approved clinical trial.
-  - If the clinical trial fulls into Investigation Device Exemption ([21 CFR 812](https://www.ecfr.gov/current/title-21/chapter-I/subchapter-H/part-812)), you should also kick off your QMS and Design Control.
+  - If the clinical trial fulls into Investigation Device Exemption ([21 CFR 812](https://www.ecfr.gov/current/title-21/chapter-I/subchapter-H/part-812)), you should also kick off your Design Control (and QMS, based on your target market(s)).
 
-By that time, you should have
+By that time you kick off your design control implementation, you should have
 - your high-level intended use and instructions for use
   - This will tell you your Software Safety Classification (IEC 62304) and the regulatory paths, including the specifications required by the regulatory authorities and what type of validation you will need -- usability validation or plus clinical validation. This allows you to estimate better the timeline and resources required to set up your design control and QMS.
 - vision your MVP-level [requirements](https://www.fda.gov/media/73141/download) including:
