@@ -7,7 +7,7 @@ tags:
 last_modified_at: 2023-08-06
 ---
 
-If you are an entrepreneur interested in establishing a company for software as a medical device, when should you start to implement a QMS system, especially design control?
+If you are an entrepreneur establishing a software as a medical device company, when should you start to implement a QMS system, especially design control?
 
 The recommendation would be - **when you are ready to build your MVP** ([p.7](https://www.fda.gov/media/116762/download)).
 
