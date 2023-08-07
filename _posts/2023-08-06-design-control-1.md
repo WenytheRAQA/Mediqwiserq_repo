@@ -11,8 +11,8 @@ If you are an entrepreneur establishing a software as a medical device company, 
 
 The recommendation would be - **when you are ready to build your MVP** ([p.7](https://www.fda.gov/media/116762/download)).
 
-- When you are out of the "ideation/research section" and enter the "design phase."
-- When you pass your "prototype/proof-of-concept" beta version product and ready to build your MVP
+- When you complete the "ideation/research section" and enter the "design phase."
+- When you finish your "prototype/proof-of-concept" beta version product and ready to build your MVP
 - When you plan to bring your device to market (e.g., when there is a potential customer or you are going to distribute your product)
 - And remember, before the first clinical use, unless you have an IRB-approved clinical trial.
   - If the clinical trial fulls into Investigation Device Exemption ([21 CFR 812](https://www.ecfr.gov/current/title-21/chapter-I/subchapter-H/part-812)), you should also kick off your QMS and Design Control.
