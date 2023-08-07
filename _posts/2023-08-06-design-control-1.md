@@ -1,5 +1,5 @@
 ---
-title: "When do you start to put your Software as Medical Device under "design control"?"
+title: "When do you start to put your Software as Medical Device under design control?"
 categories:
   - General QMS
 tags:
